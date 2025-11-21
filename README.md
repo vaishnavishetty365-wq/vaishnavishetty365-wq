@@ -12,7 +12,7 @@ INSTRUCTIONS:
 
 <!-- Header -->
 <h1 align="center">
-  Hi there! 👋 I'm <!-- TODO: Your first name here --> Gauresh
+  Hi there! 👋 I'm <!-- TODO: Your first name here --> Vaishnavi Shetty
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 </h1>
 
